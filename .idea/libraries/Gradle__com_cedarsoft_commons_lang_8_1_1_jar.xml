@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.cedarsoft.commons:lang:8.1.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cedarsoft.commons/lang/8.1.1/71efd36e25a3b7903264b67b01bfe2f038385e19/lang-8.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cedarsoft.commons/lang/8.1.1/26a4b09d663705bf196838ef1c8b2a9fe167a0c5/lang-8.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cedarsoft.commons/lang/8.1.1/b568800a65c0f35267582b01a362ad0d863d93bf/lang-8.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">global_td_android</string>
+    <string name="btn1">Button</string>
+    <string name="btn2">Button</string>
+    <string name="add">add</string>
+    <string name="delete_all">Delete All</string>
+</resources>
